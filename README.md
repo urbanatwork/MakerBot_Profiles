@@ -7,6 +7,7 @@ Once there restart the MakerBot/Ware software and you should be able to select t
 
 An example install here: http://innovationlab.ross.org/urban/2015/03/02/printing-tople…and-bottomless/
 
+
 Two Profiles added currently:
 1. A PLA just an outer shell settings for printing models with 2 shells, 0.2mm layer height, no (0) fill, and no floor or roof. Temp settings are 220C extruder and 60C buildplate. 
 
